@@ -1,7 +1,3 @@
-Here’s an updated and more comprehensive README for your project:
-
----
-
 # Arabic Distress Detection Chatbot
 
 This project implements an AI-driven chatbot that classifies Arabic text messages as either **Distressed** or **Non-Distressed**. The chatbot leverages **Arabic BERT** (from Hugging Face) for generating text embeddings and machine learning classifiers for predicting emotional states based on short Arabic messages.
