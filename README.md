@@ -135,6 +135,4 @@ Here are some sample predictions from the chatbot:
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
 
-With these additions, your README is now more comprehensive, and it will provide users with all the information they need to understand, install, and use your project effectively!
